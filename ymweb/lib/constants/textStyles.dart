@@ -40,4 +40,18 @@ class TextStyles {
     fontFamily: 'Kiona',
     fontWeight: FontWeight.w500,
   );
+
+  static final TextStyle instructionHeading = TextStyle(
+    fontSize: 25,
+    color: grey2,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w500,
+  );
+
+  static final TextStyle instructionSubheading = TextStyle(
+    fontSize: 15,
+    color: grey1,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w300,
+  );
 }

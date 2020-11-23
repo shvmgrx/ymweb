@@ -29,4 +29,16 @@ class Strings {
       "https://uploads-ssl.webflow.com/5e76128334e76c32f8b10c5e/5ec10795ab934f2e8ab02b92_LFDY_TM_logo_white.png";
   static const String BRAND6 =
       "https://uploads-ssl.webflow.com/5e76128334e76c32f8b10c5e/5eca4a052fa1e9abc9ac7798_logo_white.png";
+  static const String HOWWORKS = "How it Works";
+
+  static const String STEP1TXT = "Discover new shops";
+  static const String STEP1SUBTXT = "Check out the newest and hottest shops.";
+
+  static const String STEP2TXT = "Shop";
+  static const String STEP2SUBTXT =
+      "Get inspired and visit your favorite shop trough our app.";
+
+  static const String STEP3TXT = "Post your Story";
+  static const String STEP3SUBTXT =
+      "Your product arrives, you post your Story and get the reward payment!";
 }
