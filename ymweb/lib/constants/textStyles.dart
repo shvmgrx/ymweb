@@ -26,4 +26,18 @@ class TextStyles {
     fontFamily: 'Kiona',
     fontWeight: FontWeight.w400,
   );
+
+  static final TextStyle download = TextStyle(
+    fontSize: 11,
+    color: Colors.white,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w200,
+  );
+
+  static final TextStyle store = TextStyle(
+    fontSize: 20,
+    color: Colors.white,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w500,
+  );
 }
