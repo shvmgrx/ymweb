@@ -60,4 +60,10 @@ class TextStyles {
     fontFamily: 'Kiona',
     fontWeight: FontWeight.w300,
   );
+  static final TextStyle faq = TextStyle(
+    fontSize: 17,
+    color: standardBlack,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w600,
+  );
 }

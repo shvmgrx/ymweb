@@ -57,4 +57,21 @@ class Strings {
   static const String RVDETAILS2 = "John1567893 - 5 Feb 2020, German App Store";
   static const String RVCOMMENT2 =
       "Really user-friendly built, everything is explained and easy to use, and if you do want to ask something there is always someone reachable. I already enjoyed the really fast reward multiple times!";
+  static const String FAQ = "FAQ";
+
+  static const String FAQ1 = "Do I create the Stories out of the app?";
+  static const String FAQA1 =
+      "Yes! After your product arrives, you go to the\n yamuntu app and create your Story there.\n You will then get forwarded to Instagram \nand we'll hit you up there in the next 24h!";
+
+  static const String FAQ2 = "Can the Story look like whatever I want to?";
+  static const String FAQA2 =
+      "Mh - yeah, but no. Of course, you can shape \nthe Story whatever you want! You can show \nyourself with the product or \njust the product itself. It just needs to look awesome! \nWhat is important though, that the Story is in \nportrait format and doesn't have black edges \nor sides. Your Story must of course not \ncontain any offending content such as weapons, \nviolent elements, or drugs. We think \nthat's obvious. Other than that there are no \nlimits to your creativity!";
+
+  static const String FAQ3 = "How much discount do I get?";
+  static const String FAQA3 =
+      "Our partners sponsor you with \nvarious discounts. In the app, you can \nalways see, how much % you get back of\n your purchase. For most of our \nshops, it is between 10 - and 15 %.";
+
+  static const String FAQ4 = "How long does it take until I get my discount?";
+  static const String FAQA4 =
+      "After you posted your Story, we will\n hit up your Instagram in the next 24 \nhours. If that's not the case, please \ndirectly contact us on our Instagram @yamuntu.app via DM. \nAfter we saw your Story you get \nyour reward in the next 48 hours on PayPal!";
 }

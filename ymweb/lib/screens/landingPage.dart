@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+
 import 'package:ymweb/screens/components/brandBox.dart';
+import 'package:ymweb/screens/components/faqBox.dart';
 import 'package:ymweb/screens/components/instructionBox.dart';
 import 'package:ymweb/screens/components/introBox.dart';
 import 'package:ymweb/screens/components/reviewBox.dart';
@@ -10,7 +12,13 @@ class LandingPage extends StatelessWidget {
       Container(
         width: width,
         child: Column(
-          children: [IntroBox(), BrandBox(), InstructionBox(), ReviewBox()],
+          children: [
+            IntroBox(),
+            BrandBox(),
+            InstructionBox(),
+            ReviewBox(),
+            FaqBox()
+          ],
         ),
       ),
     ];
