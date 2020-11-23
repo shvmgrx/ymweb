@@ -54,4 +54,10 @@ class TextStyles {
     fontFamily: 'Kiona',
     fontWeight: FontWeight.w300,
   );
+  static final TextStyle review = TextStyle(
+    fontSize: 15,
+    color: standardBlack,
+    fontFamily: 'Kiona',
+    fontWeight: FontWeight.w300,
+  );
 }
